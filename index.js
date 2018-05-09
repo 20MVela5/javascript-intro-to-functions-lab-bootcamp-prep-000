@@ -4,3 +4,8 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase ('Hello!')
 }
+var uppercase = "HELLO!"
+uppercase.toUpperCase()===uppercase
+
+var lowercasse = 'hello!'=== lowercase
+var mixedCase = 'Hi there!'
