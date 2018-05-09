@@ -9,3 +9,7 @@ uppercase.toUpperCase()===uppercase
 
 var lowercasse = 'hello!'=== lowercase
 var mixedCase = 'Hi there!'
+
+mixedCase.toLowerCase()=== mixedCase
+
+mixedCase.toUpperCase()=== mixedCase
